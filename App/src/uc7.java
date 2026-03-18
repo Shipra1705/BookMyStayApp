@@ -71,7 +71,7 @@ class AddOnServiceManager {
 }
 
 // Main Class
-public class uc7 {
+public class UC7 {
 
     public static void main(String[] args) {
 
